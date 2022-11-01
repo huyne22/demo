@@ -1,0 +1,25 @@
+.wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+ul li{
+    list-style: none;
+}
+ul.main-menu li{
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+}
+.logo{
+    float: left;
+    height: 110px;
+}
+.logo img{
+    height: 100%;
+    width: auto;
+}
+ul.main-menu li a{
+    padding: 6px 15px;
+    text-decoration: none;
+    color: yellow;
+}
